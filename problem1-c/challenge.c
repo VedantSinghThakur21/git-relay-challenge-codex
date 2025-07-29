@@ -82,6 +82,6 @@ int main()
 
 /*
 SOLUTION - PASTE YOUR CLUE HERE:
-Member Name: ________________
-Clue for C++ problem: ________________
+Member Name: _Dewashish Lambore_
+Clue for C++ problem:[0, 2, 4, 6]
 */
